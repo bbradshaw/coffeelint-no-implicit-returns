@@ -32,8 +32,5 @@
   },
   "peerDependencies": {
     "coffeelint": ">=1.4"
-  },
-  "devDependencies": {
-    "coffee-script": "~1.7.0"
   }
 }
